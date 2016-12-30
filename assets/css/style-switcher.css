@@ -1,0 +1,110 @@
+/*=========================
+Theme: Evelyn - Multi-paged Business Theme
+Author: Areeb Majeed
+Email: hello@areebmajeed.me
+Version: 1.0
+Created In: December 2016
+===========================
+This file contains code for style switcher CSS. Do not use at production mode.
+==========================*/
+
+.style-switcher {
+  position: fixed;
+  width: 400px;
+  max-height: 300px;
+  height: 300px;
+  right: -320px;
+  top: 30%;
+  overflow: hidden;
+  z-index: 2010;
+  -webkit-transition: 0.5s ease;
+  -moz-transition: 0.5s ease;
+  -ms-transition: 0.5s ease;
+  -o-transition: 0.5s ease; }
+  .style-switcher .padding-5px {
+    padding: 5px; }
+  .style-switcher .vis-widget {
+    display: inline-block;
+    width: 20%;
+    min-height: 70px;
+    background: white;
+    position: absolute;
+    padding: 20px;
+    text-align: center;
+    border-radius: 21px 0px 0px 21px;
+    -moz-border-radius: 21px 0px 0px 21px;
+    -webkit-border-radius: 21px 0px 0px 21px;
+    border: 0px solid #000000;
+    cursor: pointer;
+    -webkit-transition: 0.3s ease;
+    -moz-transition: 0.3s ease;
+    -ms-transition: 0.3s ease;
+    -o-transition: 0.3s ease;
+    border: 1px solid #e4e4e4; }
+    .style-switcher .vis-widget i {
+      font-size: 20pt;
+      color: #D94545; }
+    .style-switcher .vis-widget:hover {
+      opacity: 0.7; }
+  .style-switcher .hid-widget {
+    display: inline-block;
+    width: 78%;
+    position: absolute;
+    right: 0;
+    background: white;
+    min-height: 100%;
+    margin: 0px;
+    border-radius: 0px 0px 0px 21px;
+    -moz-border-radius: 0px 0px 0px 21px;
+    -webkit-border-radius: 0px 0px 0px 21px;
+    border: 0px solid #000000;
+    border: 1px solid #e4e4e4; }
+    .style-switcher .hid-widget h3 {
+      font-family: 'Roboto Slab';
+      color: #565656;
+      margin: 0px;
+      padding: 15px;
+      background: #f7f7f7;
+      font-size: 15pt; }
+    .style-switcher .hid-widget .colour-palette {
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px; }
+    .style-switcher .hid-widget .colour-box {
+      min-width: 100%;
+      min-height: 65px;
+      border-radius: 10px;
+      cursor: pointer; }
+    .style-switcher .hid-widget #red {
+      background-color: #c64b4b; }
+    .style-switcher .hid-widget #orange {
+      background-color: #f78f39; }
+    .style-switcher .hid-widget #yellow {
+      background-color: #FCD760; }
+    .style-switcher .hid-widget #seagreen {
+      background-color: #a2ce7e; }
+    .style-switcher .hid-widget #lightgreen {
+      background-color: #21b799; }
+    .style-switcher .hid-widget #turquoise {
+      background-color: #36d9c3; }
+    .style-switcher .hid-widget #skyblue {
+      background-color: #74c7d5; }
+    .style-switcher .hid-widget #dodgerblue {
+      background-color: #38a5db; }
+    .style-switcher .hid-widget #lightpurple {
+      background-color: #8aaad9; }
+    .style-switcher .hid-widget #purple {
+      background-color: #9661a8; }
+    .style-switcher .hid-widget #pink {
+      background-color: #f1678d; }
+    .style-switcher .hid-widget #lightpink {
+      background-color: #FFA6BF; }
+
+.style-switcher.open {
+  right: 0; }
+
+.style-switcher.hidden {
+  display: none; }
+
+/*# sourceMappingURL=style-switcher.css.map */

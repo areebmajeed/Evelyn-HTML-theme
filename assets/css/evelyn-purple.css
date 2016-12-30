@@ -1,0 +1,144 @@
+/*=========================
+Theme: Evelyn - Multi-paged Business Theme
+Author: Areeb Majeed
+Email: hello@areebmajeed.me
+Version: 1.0
+Created In: December 2016
+===========================
+This is a colour file.
+==========================*/
+
+.navbar {
+
+background:#9661a8;
+
+}
+
+.navbar-brand {
+	
+color:white !important;
+	
+}
+
+#navbar-main {
+	
+background:#9661a8;
+border:0;
+	
+}
+
+.nav.navbar-nav > li > a:link, .nav.navbar-nav > li > a:visited, .nav.navbar-nav > li > a:hover, .nav.navbar-nav > li > a:active, #navbar-right-side > li > a:link, #navbar-right-side > li > a:visited, #navbar-right-side > li > a:hover, #navbar-right-side > li > a:active {
+
+color:white !important;
+
+}
+
+.hvr-underline-from-left:before {
+	
+background:white !important;
+	
+}
+
+.homepage-cover {
+	
+background:#9661a8;
+color:white;
+	
+}
+
+.btn-cover {
+	
+border-color:white;
+color:white !important;
+	
+}
+
+.btn-cover:hover {
+	
+color:#9661a8 !important;
+background:white !important;
+	
+}
+
+.btn-feature {
+	
+border-color:#9661a8;
+color:#9661a8 !important;
+	
+}
+
+.btn-feature:hover {
+	
+color:white !important;
+background:#9661a8 !important;
+	
+}
+
+#colour1 {
+	
+background:#1F1F1F;
+color:white;
+	
+}
+
+#colour2 {
+	
+background:#E2E2E2;
+color:#313131;
+	
+}
+
+#colour3 {
+	
+background:#1F1F1F;
+color:white;
+	
+}
+
+
+.cf-description {
+
+background-color:#9661a8;
+color:white;
+
+}
+
+.cf-description:after {
+
+border-top:15px solid #9661a8;
+
+}
+
+#link {
+	
+color:#9661a8 !important;
+	
+}
+
+.page-wrapper {
+
+background:white;
+	
+}
+
+.faq-title {
+	
+border:1px #9661a8 solid;
+background:#9661a8;
+color:white;
+	
+}
+
+.faq-ques {
+	
+border:1px #9661a8 solid;
+	
+}
+
+.btn-primary {
+	
+background:#9661a8 !important;
+border-color:white !important;
+color:white !important;
+	
+}

@@ -1,0 +1,87 @@
+/*=========================
+Theme: Evelyn - Multi-paged Business Theme
+Author: Areeb Majeed
+Email: hello@areebmajeed.me
+Version: 1.0
+Created In: December 2016
+===========================
+This file contains responsive fixes.
+==========================*/
+
+@media screen and (max-width: 500px) {
+
+.homepage-cover {
+	
+min-height:100vh;
+padding-top:120px;
+	
+}
+
+#homepage-cover {
+	
+padding-right:10px;
+	
+}
+
+#feature {
+	
+padding:50px 20px 50px 20px;
+font-size:19px;
+font-family:'Questrial', serif;
+	
+}
+
+.footer-links {
+	
+padding-bottom:30px;
+	
+}
+
+#holder {
+	
+min-height:100vh;
+background:white;
+padding:15px 0px 30px 0px;
+	
+}
+
+.pricing-table {
+	
+margin-top:25px;
+	
+}
+
+.contact-feature-holder {
+	
+margin-top:15px;
+	
+}
+
+.cf-description {
+
+min-height:280px !important;
+max-height:280px !important;
+
+}
+
+}
+
+@media screen and (max-width:310px) {
+
+.navbar-brand {
+	
+margin-top:-24px;
+	
+}
+
+}
+
+@media screen and (max-width:300px) {
+
+.navbar-brand {
+	
+margin-top:-60px;
+	
+}
+
+}
