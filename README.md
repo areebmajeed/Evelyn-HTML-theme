@@ -4,6 +4,10 @@ Evelyn is a minimal and beautiful theme for your startup, business or corporate 
 
 You can also read the Theme Documentation.pdf to know more about the theme.
 
+## Demo
+
+I've put a demo of the theme here: [areebmajeed.me/projects/evelyn](http://areebmajeed.me/projects/evelyn). Feel free to check it.
+
 ## Credits
 
 1. Bootstrap - http://getbootstrap.com/
