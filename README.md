@@ -19,7 +19,6 @@ I've put a demo of the theme here: [areebmajeed.me/projects/evelyn](http://areeb
 ## Authors
 
 * **[Areeb Majeed](http://areebmajeed.me/)**
-* **[Overfeat](https://overfeat.com/)**
 
 ## License
 
